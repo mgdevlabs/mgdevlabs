@@ -27,7 +27,7 @@ Take a look around — projects live here.
   ![Python](https://img.shields.io/badge/-Python-0d1b2e?style=flat-square&logo=python&logoColor=4faffe)
   ![C++](https://img.shields.io/badge/C++-0d1b2e?style=flat-square&logo=cplusplus&logoColor=4faffe)
   ![Docker](https://img.shields.io/badge/Docker-0d1b2e?style=flat-square&logo=cplusplus&logoColor=4faffe)
-  [![Repo](https://img.shields.io/badge/GitHub-repo-1a4b8c?style=flat-square&logo=github)](https://github.com/Michalg462/arduino-to-flask-iot)
+  [![Repo](https://img.shields.io/badge/GitHub-repo-1a4b8c?style=flat-square&logo=github)](https://github.com/mgdevlabs/arduino-to-flask-iot)
   
   </td>
   <td width="50%">
@@ -37,7 +37,7 @@ Take a look around — projects live here.
   
   ![Python](https://img.shields.io/badge/-Python-0d1b2e?style=flat-square&logo=python&logoColor=4faffe)
   ![PyTorch](https://img.shields.io/badge/PyTorch-0d1b2e?style=flat-square&logo=numpy&logoColor=4faffe)
-  [![Repo](https://img.shields.io/badge/GitHub-repo-1a4b8c?style=flat-square&logo=github)](https://github.com/Michalg462/mnist-neural-network)
+  [![Repo](https://img.shields.io/badge/GitHub-repo-1a4b8c?style=flat-square&logo=github)](https://github.com/mgdevlabs/mnist-neural-network)
   
   </td>
   </tr>
@@ -50,7 +50,7 @@ Take a look around — projects live here.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Michalg462&theme=tokyonight&hide_border=true&background=0d1b2e&ring=4faffe&fire=4faffe&currStreakLabel=4faffe&sideLabels=8aaac8&dates=8aaac8&stroke=1a4b8c" />
+<img src="https://streak-stats.demolab.com?user=mgdevlabs&theme=tokyonight&hide_border=true&background=0d1b2e&ring=4faffe&fire=4faffe&currStreakLabel=4faffe&sideLabels=8aaac8&dates=8aaac8&stroke=1a4b8c" />
 
 </div>
 
